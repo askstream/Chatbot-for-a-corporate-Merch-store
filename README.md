@@ -87,7 +87,7 @@ psql -U postgres -f database/mvp_create_database.sql
 # Полная структура с таблицами и функциями
 psql -U postgres -d mvp_store -f database/mvp_merch_store_full.sql
 
-# Сосздание пользователя 'mvp' и доступы
+# Создание пользователя 'mvp' и доступы
 psql -U postgres -f database/mvp_user_grants_max.sql
 ```
 
