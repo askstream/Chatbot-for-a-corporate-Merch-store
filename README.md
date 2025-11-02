@@ -71,7 +71,7 @@
 
 1. **Клонируйте репозиторий**
 ```bash
-git clone https://github.com/askstream/A-project-to-create-a-chatbot-for-a-corporate-Merch-store.git
+git clone https://github.com/askstream/Chatbot-for-a-corporate-Merch-store.git
 ```
 
 2. **Импортируйте workflow в n8n**
